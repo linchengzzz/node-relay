@@ -6,7 +6,7 @@
 
 ```bash
 # 克隆项目
-git clone 
+git clone https://github.com/linchengzzz/node-relay.git
 cd node-relay
 
 # 安装依赖 
